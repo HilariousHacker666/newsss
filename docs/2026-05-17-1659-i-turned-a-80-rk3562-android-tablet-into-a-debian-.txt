@@ -1,0 +1,14 @@
+I turned a $80 RK3562 Android tablet into a Debian Linux workstation
+
+Posted 3 hours ago [item?id=48168668] by tech4bot
+Points: 83 | Comments: 3
+
+Read more: https://github.com/tech4bot/rk3562deb
+
+---
+
+More trending stories:
+- I don't think AI will make your processes go faster
+  https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/
+
+Powered by n8n automation
