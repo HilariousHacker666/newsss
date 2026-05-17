@@ -1,0 +1,14 @@
+Mercurial, 20 years and counting: how are we still alive and kicking? [video]
+
+Posted 4 hours ago [item?id=48147351] by ibobev
+Points: 85 | Comments: 4
+
+Read more: https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/
+
+---
+
+More trending stories:
+- I don't think AI will make your processes go faster
+  https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/
+
+Powered by n8n automation
