@@ -1,0 +1,14 @@
+Mercurial, 20 years and counting: how are we still alive and kicking? [video]
+
+Posted 4 hours ago [item?id=48147351] by ibobev
+Points: 99 | Comments: 4
+
+Read more: https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/
+
+---
+
+More trending stories:
+- I turned a $80 RK3562 Android tablet into a Debian Linux workstation
+  https://github.com/tech4bot/rk3562deb
+
+Powered by n8n automation
