@@ -1,0 +1,14 @@
+GenCAD
+
+Posted 9 hours ago [item?id=48173429] by dagenix
+Points: 248 | Comments: 9
+
+Read more: https://gencad.github.io/
+
+---
+
+More trending stories:
+- Why bambu_networking violates the AGPL in Bambu Studio
+  https://github.com/jarczakpawel/OrcaSlicer-bambulab/blob/main/bambu_agpl.md
+
+Powered by n8n automation
