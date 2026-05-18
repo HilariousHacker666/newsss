@@ -1,0 +1,14 @@
+We stopped AI bot spam in our GitHub repo using Git's –author flag
+
+Posted 2 hours ago [item?id=48181125] by ildari
+Points: 190 | Comments: 2
+
+Read more: https://archestra.ai/blog/only-responsible-ai
+
+---
+
+More trending stories:
+- Anthropic Acquires Stainless
+  https://www.anthropic.com/news/anthropic-acquires-stainless
+
+Powered by n8n automation
