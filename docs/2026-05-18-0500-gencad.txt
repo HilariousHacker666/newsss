@@ -1,0 +1,14 @@
+GenCAD
+
+Posted 7 hours ago [item?id=48173429] by dagenix
+Points: 188 | Comments: 7
+
+Read more: https://gencad.github.io/
+
+---
+
+More trending stories:
+- Freelang – a Libc-free, direct sys/kernel call language with weird concurrency
+  https://freelang.dev
+
+Powered by n8n automation
