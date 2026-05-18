@@ -1,0 +1,14 @@
+The foundations of a provably secure operating system (PSOS) (1979) [pdf]
+
+Posted 1 hour ago [item?id=48177300] by rurban
+Points: 30 | Comments: 1
+
+Read more: http://www.csl.sri.com/users/neumann/psos.pdf
+
+---
+
+More trending stories:
+- Where Are the Vibecoded Photoshops?
+  https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/
+
+Powered by n8n automation
