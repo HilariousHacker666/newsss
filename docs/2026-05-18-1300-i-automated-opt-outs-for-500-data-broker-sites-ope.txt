@@ -1,0 +1,14 @@
+I automated opt-outs for 500 data broker sites (open source)
+
+Posted 1 hour ago [item?id=48178184] by stephenlthorn
+Points: 108 | Comments: 1
+
+Read more: https://github.com/stephenlthorn/auto-identity-remove
+
+---
+
+More trending stories:
+- The foundations of a provably secure operating system (PSOS) (1979) [pdf]
+  http://www.csl.sri.com/users/neumann/psos.pdf
+
+Powered by n8n automation
