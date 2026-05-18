@@ -1,0 +1,14 @@
+The foundations of a provably secure operating system (PSOS) (1979) [pdf]
+
+Posted 2 hours ago [item?id=48177300] by rurban
+Points: 44 | Comments: 2
+
+Read more: http://www.csl.sri.com/users/neumann/psos.pdf
+
+---
+
+More trending stories:
+- GenCAD
+  https://gencad.github.io/
+
+Powered by n8n automation
