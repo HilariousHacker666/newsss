@@ -1,0 +1,14 @@
+GenCAD
+
+Posted 3 hours ago [item?id=48173429] by dagenix
+Points: 88 | Comments: 3
+
+Read more: https://gencad.github.io/
+
+---
+
+More trending stories:
+- I turned a $80 RK3562 Android tablet into a Debian Linux workstation
+  https://github.com/tech4bot/rk3562deb
+
+Powered by n8n automation
