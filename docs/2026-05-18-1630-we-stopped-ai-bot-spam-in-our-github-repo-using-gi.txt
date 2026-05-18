@@ -1,0 +1,14 @@
+We stopped AI bot spam in our GitHub repo using Git's –author flag
+
+Posted 1 hour ago [item?id=48181125] by ildari
+Points: 107 | Comments: 1
+
+Read more: https://archestra.ai/blog/only-responsible-ai
+
+---
+
+More trending stories:
+- Show HN: Files.md – Open-source alternative to Obsidian
+  https://github.com/zakirullin/files.md
+
+Powered by n8n automation
