@@ -1,0 +1,14 @@
+Everything in C is undefined behavior
+
+Posted 3 hours ago [item?id=48203698] by lycopodiopsida
+Points: 174 | Comments: 3
+
+Read more: https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html
+
+---
+
+More trending stories:
+- FiveThirtyEight articles on the Internet Archive
+  https://fivethirtyeightindex.com/
+
+Powered by n8n automation
